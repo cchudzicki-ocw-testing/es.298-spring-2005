@@ -7,7 +7,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: color_balance.jpg
+type: OCWImage
 uid: f9e996c8-7610-18d9-7227-aeaa81e583e4
 ---

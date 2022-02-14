@@ -8,7 +8,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: bal_and_tension.jpg
+type: OCWImage
 uid: 3080d2aa-3afc-e1b0-1525-fcb70522a33a
 ---

@@ -7,7 +7,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: image9.jpg
+type: OCWImage
 uid: 78a29646-54b6-0e34-f849-fde29a0a92d3
 ---

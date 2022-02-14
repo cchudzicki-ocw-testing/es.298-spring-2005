@@ -7,7 +7,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: color_wheel_ex.jpg
+type: OCWImage
 uid: 5f5b47db-b02f-8a82-316b-ad0e11dc1814
 ---

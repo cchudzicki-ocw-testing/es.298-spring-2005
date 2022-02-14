@@ -8,7 +8,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: warmcold_colors.jpg
+type: OCWImage
 uid: 3febe3b4-cd08-e7ff-b39b-f4c15476168f
 ---
