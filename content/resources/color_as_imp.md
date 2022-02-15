@@ -13,6 +13,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Image
 title: color_as_imp.jpg
-type: OCWImage
 uid: 5349838a-f02d-bcb8-5c53-5f301980edac
 ---

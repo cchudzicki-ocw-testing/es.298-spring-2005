@@ -14,6 +14,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Image
 title: unified_space.jpg
-type: OCWImage
 uid: 9ca2cb31-4b1d-08fa-9834-7467ec8d84e0
 ---
